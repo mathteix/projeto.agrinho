@@ -1,18 +1,13 @@
 <h1 align="center"> Projeto agrinho </h1>
 
 <p align="center">
-Programa desenvolvido pelos alunos do 2º ano do Desenvolvimento de sistemas - Sagrada família, orientado pela professora Rafaela Duarte. <br/>
+Programa desenvolvido pelos alunos do 2º ano do Desenvolvimento de Sistemas - Sagrada Família, orientado pela professora Rafaela Duarte. <br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>
 </p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
 
 <p align="center">
