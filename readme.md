@@ -11,7 +11,8 @@ Programa desenvolvido pelos alunos do 2º ano do Desenvolvimento de Sistemas - S
 <br>
 
 <p align="center">
-  <img alt="banner readme Cesf +Saudavel" src="./Img readme.png" width="100%">
+  <img alt="banner readme Cesf +Saudavel" src="![image](https://github.com/user-attachments/assets/e1e58ed1-328b-47a4-920b-269fb64d9d25)
+" width="100%">
 </p>
 
 ## Tecnologias
